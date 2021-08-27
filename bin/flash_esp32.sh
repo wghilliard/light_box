@@ -1,0 +1,1 @@
+esptool.py --port /dev/tty.usbserial-0166DBCA --chip esp32 write_flash -z 0x1000 ./downloads/esp32-20210623-v1.16.bin

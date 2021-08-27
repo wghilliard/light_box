@@ -1,0 +1,7 @@
+{
+  "local_debug": true,
+  "run_shows": false,
+  "wlan_on": true,
+  "server_address": "192.168.1.6:5000",
+  "namespace": "/devices"
+}

@@ -1,0 +1,30 @@
+{
+  "glow": {
+    "fg": {
+      "color": [
+        255,
+        255,
+        255
+      ],
+      "radius": 4,
+      "brightness": 100
+    },
+    "bg": {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "brightness": 10
+    }
+  },
+  "fade": {
+    "fade_in": true,
+    "color": [
+      150,
+      100,
+      0
+    ],
+    "rate": 10
+  }
+}

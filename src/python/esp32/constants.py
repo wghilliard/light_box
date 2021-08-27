@@ -1,0 +1,23 @@
+MAIN_LOADED_LED = 0
+NETWORK_LED = 1
+WS_TEST_LED = 2
+WS_COUNTER_LED = 3
+SHOW_STATUS_LED = 4
+
+RED = (1, 0, 0)
+BLUE = (0, 1, 0)
+GREEN = (0, 0, 1)
+YELLOW = (1, 0, 1)
+OFF = (0, 0, 0)
+
+DISPLAY_PIN = 14
+DISPLAY_SIZE = 32
+DISPLAY_WIDTH = 4
+DISPLAY_HEIGHT = 8
+
+LIGHT_BOX_PIN = 21
+LIGHT_BOX_SIZE = 300
+
+
+def sprint(msg):
+    print("[system] " + msg)

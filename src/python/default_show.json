@@ -1,0 +1,16 @@
+{
+  "type": "default",
+  "duration": 20,
+  "effect": {
+    "delay": 0.01,
+    "centered": true,
+    "width": 4,
+    "intensity": 100,
+    "decay": 0.7,
+    "color": [
+      255,
+      235,
+      0
+    ]
+  }
+}

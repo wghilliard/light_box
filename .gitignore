@@ -1,0 +1,7 @@
+src/ts/dist/
+src/ts/node_modules/
+src/ts/package-lock.json
+src/python/secrets.json
+.DS_Store
+downloads
+.idea
